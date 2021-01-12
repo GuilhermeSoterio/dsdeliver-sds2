@@ -1,4 +1,3 @@
-import { type } from 'os';
 import React from 'react';
 import { useState } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
